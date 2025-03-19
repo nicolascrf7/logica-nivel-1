@@ -1,1 +1,5 @@
-print("rio de janeiro")
+print ("XXXXX")
+print ("X   X")
+print ("X   X")
+print ("X   X")
+print ("XXXXX")
